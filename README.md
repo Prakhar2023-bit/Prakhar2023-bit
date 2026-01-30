@@ -2,10 +2,6 @@
 
 I am a **Computer Science Student** with a strong foundation in Data Structures & Algorithms and a passion for Artificial Intelligence. I focus on writing efficient code to solve complex engineering problems, ranging from Deep Learning security systems to full-stack web applications.
 
-* 🎓 **Education:**
-    * **B.Tech in Computer Science:** Bennett University (Expected 2027)
-    * **Diploma in Programming:** IIT Madras (Expected 2026)
-
 ---
 
 ### 🛠️ Languages & Tools
