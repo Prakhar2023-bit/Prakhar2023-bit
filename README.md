@@ -37,15 +37,6 @@ I am a **Computer Science Student** with a strong foundation in Data Structures 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2023-bit&show_icons=true&theme=minimal" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2023-bit&layout=compact&theme=minimal" height="150" alt="languages graph"  />
-</div>
-
----
-
 ### 📫 Connect with me
 * **Email:** prakharswaroop2023@gmail.com
 * **Location:** Gurgaon, Haryana, India
